@@ -21,7 +21,7 @@ namespace PruebaGit
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hola Daniel Leon chiriboga");
+            MessageBox.Show("Hola Daniel Leon chiriboga local");
 
         }
     }
